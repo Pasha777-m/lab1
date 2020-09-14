@@ -17,6 +17,7 @@ public class SimpleCalc {
         this.a=p1;   
         this.b=p2;   
     }
+	/*Просто вношу изменения в проект*/
     public double getSum(){
         return this.a+this.b;
     }
