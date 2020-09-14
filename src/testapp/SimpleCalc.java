@@ -7,10 +7,10 @@ package testapp;
 
 /**
  *
- * @author Pasha
+ * @author  Pasha
  */
 public class SimpleCalc {
-    private double a;
+    private double a;     
     private double b; 
     
     SimpleCalc(double p1, double p2){
