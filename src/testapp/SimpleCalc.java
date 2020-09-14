@@ -7,9 +7,9 @@ package testapp;
 
 /**
  *
- * @author  Pasha
+ * @author Pasha
  */
-public  class SimpleCalc {
+public class SimpleCalc {
     private double a;     
     private double b; 
     
