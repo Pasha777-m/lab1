@@ -19,6 +19,7 @@ public class SimpleCalc {
     }
 	/*Просто вношу изменения в проект*/
 	/*Просто вношу изменения в проект#2*/
+	/*Просто вношу изменения в проект#3*/
     public double getSum(){
         return this.a+this.b;
     }
