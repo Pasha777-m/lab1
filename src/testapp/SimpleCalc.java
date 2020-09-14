@@ -11,7 +11,7 @@ package testapp;
  */
 public class SimpleCalc {
     private double a;
-    private double b;
+    private double b; 
     
     SimpleCalc(double p1, double p2){
         this.a=p1;
